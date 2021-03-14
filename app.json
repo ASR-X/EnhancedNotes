@@ -1,0 +1,12 @@
+{
+  "name": "enhanced-notes",
+  "displayName": "enhanced-notes",
+  "expo": {
+    "name": "enhanced-notes",
+    "slug": "enhanced-notes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
