@@ -1,3 +1,5 @@
+<img align="Right" src="https://imgur.com/oXGQq4A.png" height="121" width="300">
+
 # Enhanced Notes
 
 Have you ever forgotten to write down a definition or not had enough time jot one down before the teacher moves on? Introducing Enhanced Notes, an easy-to-use web app that converts custom Markdown-esque syntax into useful context and information.
