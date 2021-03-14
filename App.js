@@ -35,7 +35,7 @@ function MyDropzone() {
         const base64Str = reader.result
         var base64Str_split = base64Str.split(',').pop()
         console.log(base64Str_split)
-        postData('http://ee4f2c7ca6e5.ngrok.io/ocr', { base64: base64Str_split })
+        postData('http://08e6b77a5711.ngrok.io/ocr', { base64: base64Str_split })
           .then(data => {
               console.log(data)
               console.log(data.html)
