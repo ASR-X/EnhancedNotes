@@ -4,7 +4,7 @@ Have you ever forgotten to write down a definition or not had enough time jot on
 
 ## OCR(+)
 Traditional optical character recognition (OCR) has always been used for document scanning, but our implementation is able to detect handwritten, printed, and screenshotted notes - all while detecting our custom syntax.
- - Backend available at 
+ - Backend available at https://colab.research.google.com/drive/1W-3EpefIeCDOf2U2ZFZAjOIdxmYh9EyU?usp=sharing
 
 ## Syntax
 To get more information and context surrounding a term or event, surround it in `/` marks.
