@@ -52,6 +52,7 @@ function MyDropzone() {
   return (
     
     <View style={styles.container} {...getRootProps()}>
+      
       <input style = {styles.titleText} {...getInputProps()} />
       {
         isDragActive ?

@@ -1,4 +1,4 @@
-<img align="Right" src="https://imgur.com/oXGQq4A.png" height="121" width="300">
+<img align="Right" src="https://imgur.com/bTewR4w.png" height="121" width="300">
 
 # Enhanced Notes
 
