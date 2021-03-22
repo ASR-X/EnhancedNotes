@@ -2,6 +2,8 @@
 
 # Enhanced Notes
 
+### **Best Artifical Intelligence or Machine Learning | [MenloHacks 5.1](https://2021.menlohacks.com/)**
+
 Have you ever forgotten to write down a definition or not had enough time jot one down before the teacher moves on? Introducing Enhanced Notes, an easy-to-use web app that converts custom Markdown-esque syntax into useful context and information.
 
 ## OCR(+)
@@ -20,6 +22,9 @@ Once uploaded to the web app, an enhanced version will be returned after process
 ```
 [Weltpolitik : Weltpolitik (German: [ˈvɛltpoliˌtiːk], "world politics") was the imperialist foreign policy adopted by the German Empire during the reign of Emperor Wilhelm II.]
 ```
+## Devpost
+
+The Devpost project is available at https://devpost.com/software/enhanced-notes
 
 ## Potential
 Due to many challenges and difficulties, the UI and functionality of this project is not quite up to par as what we think it could be. Potential features include:
